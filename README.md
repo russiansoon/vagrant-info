@@ -1,0 +1,1 @@
+#VAGRANT-info
